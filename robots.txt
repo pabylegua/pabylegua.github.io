@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pabylegua.github.io/sitemap
+Sitemap: https://pabylegua.github.io/app/sitemap
+Sitemap: https://pabylegua.github.io/assets/sitemap
+Sitemap: https://pabylegua.github.io/css/sitemap
+Sitemap: https://pabylegua.github.io/includes/sitemap
+Sitemap: https://pabylegua.github.io/item/sitemap
+Sitemap: https://pabylegua.github.io/src/sitemap
